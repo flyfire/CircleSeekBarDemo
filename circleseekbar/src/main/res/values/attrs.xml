@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleSeekBar">
+        <attr name="points" format="integer"/>
+        <attr name="max" format="integer"/>
+        <attr name="min" format="integer"/>
+        <attr name="step" format="integer"/>
+        <attr name="indicatoricon" format="reference"/>
+        <attr name="progresswidth" format="dimension"/>
+        <attr name="progresscolor" format="color"/>
+        <attr name="arcwidth" format="dimension"/>
+        <attr name="arccolor" format="color"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="colockwise" format="boolean"/>
+        <attr name="enabled" format="boolean"/>
+    </declare-styleable>
+</resources>
